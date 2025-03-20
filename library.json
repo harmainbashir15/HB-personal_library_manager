@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Earn and Learn",
+        "author": "HARMAIN",
+        "year": 2025,
+        "genre": "knowledge",
+        "read_status": true
+    },
+    {
+        "title": "learn python",
+        "author": "HARMAIN",
+        "year": 2025,
+        "genre": "coding",
+        "read_status": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "HARMAIN",
+        "year": 2025,
+        "genre": "Social Media",
+        "read_status": false
+    },
+    {
+        "title": "Secrets of Divine Love ",
+        "author": "A. HELWA",
+        "year": "2025",
+        "genre": "relligion",
+        "read_status": true
+    },
+    {
+        "title": "Crypto",
+        "author": "HARMAIN",
+        "year": "2024",
+        "genre": "Rich life",
+        "read_status": false
+    }
+]
